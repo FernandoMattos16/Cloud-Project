@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+psycopg2-binary
+bcrypt
+python-dotenv
+PyJWT
+pydantic
+yfinance
